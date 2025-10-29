@@ -21,4 +21,5 @@ A report on the evaluation of a sponsorship partnership between the ECB (England
 
 ## Disclaimer
 
-    The code and data for the projects discussed in these reports are confidential and cannot be shared publicly. This repository solely contains the reports themselves for informational purposes.
+The code and data for the projects discussed in these reports are confidential and cannot be shared publicly.
+This repository solely contains the reports themselves for informational purposes.
